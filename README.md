@@ -1,3 +1,3 @@
-# TreeSeed Engineering Template content
+# TreeSeed Engineering Template library
 
-Authoritative content history for `treeseed-ai/template-engineering`. Operate content through TreeDX and publish immutable runtime content through the protected workflow.
+Authoritative project library history for `treeseed-ai/template-engineering`. Operate library knowledge through TreeDX and publish immutable runtime content through the protected workflow.
